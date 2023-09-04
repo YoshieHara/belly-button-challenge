@@ -38,7 +38,7 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-![bar Chart](images/hw01.jpg)
+![bar Chart](Images/hw01.jpg)
 
 Create a bubble chart that displays each sample.
 Use otu_ids for the x values.
@@ -51,16 +51,16 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-![Bubble Chart](images/bubble_chart.jpg)
+![Bubble Chart](Images/bubble_chart.jpg)
 
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](images/hw03.jpg)
+![hw](Images/hw03.jpg)
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-![hw](images/hw02.jpg)
+![hw](Images/hw02.jpg)
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 Advanced Challenge Assignment (Optional with no extra points earning)
